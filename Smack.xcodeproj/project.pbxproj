@@ -16,6 +16,7 @@
 		C34104412009230700ACA776 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C341043F2009230700ACA776 /* SWRevealViewController.m */; };
 		C3D2093F201048D700CBA87A /* ChatVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D2093E201048D700CBA87A /* ChatVC.swift */; };
 		C3D20941201048E600CBA87A /* ChannelVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D20940201048E600CBA87A /* ChannelVC.swift */; };
+		C3D209432018E99500CBA87A /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D209422018E99500CBA87A /* GradientView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		C34104402009230700ACA776 /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SWRevealViewController.h; path = "../../../Smack Assets/SWReveal/SWRevealViewController.h"; sourceTree = "<group>"; };
 		C3D2093E201048D700CBA87A /* ChatVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatVC.swift; sourceTree = "<group>"; };
 		C3D20940201048E600CBA87A /* ChannelVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelVC.swift; sourceTree = "<group>"; };
+		C3D209422018E99500CBA87A /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		EFE07CE0F9830B5276A69777 /* Pods_Smack.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Smack.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -105,6 +107,7 @@
 		C3D2093C201048AE00CBA87A /* View */ = {
 			isa = PBXGroup;
 			children = (
+				C3D209422018E99500CBA87A /* GradientView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				C3D2093F201048D700CBA87A /* ChatVC.swift in Sources */,
 				C341042E2005509200ACA776 /* ViewController.swift in Sources */,
+				C3D209432018E99500CBA87A /* GradientView.swift in Sources */,
 				C341042C2005509200ACA776 /* AppDelegate.swift in Sources */,
 				C34104412009230700ACA776 /* SWRevealViewController.m in Sources */,
 				C3D20941201048E600CBA87A /* ChannelVC.swift in Sources */,
